@@ -76,8 +76,7 @@ class block_testblock extends block_base {
         $this->content = new stdClass;
         $this->content->text =$s;
 //        $this->content->footer = 'this is footer';
-
-
+//sssss
         return $this->content;
     }
 
